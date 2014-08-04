@@ -1,0 +1,1 @@
+<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/lol.pdd/admin/mailbox_edit.php");?>

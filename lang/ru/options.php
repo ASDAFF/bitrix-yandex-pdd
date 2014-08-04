@@ -1,0 +1,31 @@
+<?
+$MESS['PDD_OPTION_TOKENS_TITLE']="Токены";
+$MESS['PDD_OPTION_TOKENS_NOTOKENS']="Токены не указаны";
+$MESS['PDD_OPTION_TOKENS_TOKEN_ADD']="Добавить новый токен";
+$MESS['PDD_OPTION_SAVE']="Сохранить";
+$MESS['PDD_OPTION_RESTORE_DEFAULTS']="Восстановить настройки по умолчанию";
+$MESS['PDD_RESTORE_DEFAULTS']="По умолчанию";
+$MESS['PDD_OPTION_RESET']="Сбросить";
+$MESS['MAIN_TAB_TOKENS']="Токены";
+$MESS['MAIN_TAB_TITLE_TOKENS']="Токены";
+$MESS['PDD_OPTION_TOKENS_NEW']="Получение нового токена автоматически";
+$MESS['PDD_OPTION_YANDEX_SETTING']="Настройки запросов к Яндекс";
+$MESS['PDD_OPTION_YNDEX_REQUEST']="Количество запросов за 1 итерацию";
+$MESS['PDD_OPTION_YNDEX_SLEEP']="Интервал между запросами (секунды)";
+$MESS['PDD_OPTION_TOKENS_NEW_NOTE']='Для начала работы с модулем вам необходимо иметь <a href="http://help.yandex.ru/pdd/about.xml" target="_blank">подключенный</a> к Яндекс.ПДД домен. Введите здесь название этого домена, а также логин и пароль учетной записи владельца домена на Яндексе. Модуль не сохраняет эти данные, а лишь использует для получения токена.';
+$MESS['PDD_OPTION_TOKENS_NEW_DOMAIN']="Домен";
+$MESS['PDD_OPTION_TOKENS_NEW_LOGIN']="Логин";
+$MESS['PDD_OPTION_TOKENS_NEW_PASSWORD']="Пароль";
+$MESS['PDD_OPTION_TOKENS_NEW_BUTTON']="Получить";
+$MESS['PDD_OPTION_TOKENS_NEW_ERROR']="Ошибка автоматического получения токена";
+$MESS['PDD_OPTION_TOKENS_NEW_MANUAL']="Получение нового токена вручную";
+$MESS['PDD_OPTION_TOKENS_NEW_MANUAL_NOTE']='Если вы не хотите использовать механизм автоматического получения токена или при автоматическом получении токена произошла ошибка, вы можете получить токен вручную. Для этого в поле ниже введите название домена и нажмите кнопку "Получить". В новом окне после прохождения авторизации откроется результат работы скрипта получения токена в формате XML. Токен - буквенно-цифровая последовательность в аттрибуте token. Ее необходимо скопировать в поле добавления нового токена.';
+$MESS['PDD_OPTION_TOKENS_NEW_MANUAL_DOMAIN']="Домен";
+$MESS['PDD_OPTION_TOKENS_NEW_CAPTCHA']="Введите символы на картинке";
+$MESS['PDD_OPTION_TOKENS_NEW_CAPTCHA_NOTE']='Отлично! Вы прошли первый этап получения токена. Для завершения процесса, пожалуйста, введите символы на картинке.';
+$MESS['MAIN_TAB_ABOUT']="О модуле";
+$MESS['MAIN_TAB_TITLE_ABOUT']="Информация о модуле";
+$MESS['PDD_OPTION_ABOUT_TITLE']="О модуле";
+$MESS['PDD_OPTION_ABOUT_LOL']='Модуль разработан <a href="http://www.lol.su" target="_blank">ООО "Лол"</a>.';
+$MESS['PDD_OPTION_ABOUT_YANDEX']='Функционал модуля предоставлен службой <a href="http://pdd.yandex.ru" target="_blank">Яндекс.ПДД</a>';
+?>
